@@ -1,4 +1,11 @@
+# Ignore HTML files
 *.html
+
+# Ignore image files
 *.jpg
 *.jpeg
 *.png
+*.gif
+
+# Ignore text files
+*.txt
